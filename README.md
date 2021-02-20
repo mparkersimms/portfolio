@@ -36,8 +36,8 @@ Number and name of feature:  #2 Add Functionality
 
 Estimate of time needed to complete: 2 hr 
 
-Start time: 1: 30 pm CST
+Start time: 1:30 pm CST
 
-Finish time: 1: 28 pm CST
+Finish time: 3:25 pm CST
 
-Actual time needed to complete:2 hr 30 min
+Actual time needed to complete:1 hr 55 min
