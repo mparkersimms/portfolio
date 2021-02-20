@@ -14,16 +14,17 @@ Estimate of time needed to complete: 1 hr
 
 Start time: 7:05 pm CST
 
-Finish time: _____
+Finish time: 7:23 pm CST
 
-Actual time needed to complete: _____
+Actual time needed to complete: 18 min
 
+### Feature 2
 
-Number and name of feature: ________________________________
+Number and name of feature:  #2 Modify the Contents
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hr. 
 
-Start time: _____
+Start time: 7:24 pm CST
 
 Finish time: _____
 
